@@ -1,2 +1,2 @@
 # ansible-test
-testing
+This is a test git repository for my ansible studying :D
